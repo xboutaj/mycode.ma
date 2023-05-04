@@ -69,16 +69,16 @@ input[type=radio]:checked~label:before,
 .tm-contact-block p a:hover,
 .tm-accent_color,
 .tm-primary_btn:hover {
-    color: #985EFF;
+    color: #f46530;
 }
 
 ::-moz-selection,
 .tm-accent_bg {
-    background: #985EFF;
+    background: #f46530;
 }
 
 ::selection {
-    background: #985EFF;
+    background: #f46530;
 }
 
 .tm-button,
@@ -120,7 +120,7 @@ button.tm-customizer-opener,
 .tm-product2 .cs-product2-cart,
 .tm-product2 .tm-icon_btn:hover,
 .tm-service2.tm-type1:hover .tm-service2-icon {
-    background: #985EFF;
+    background: #f46530;
 }
 
 .tm-button,
@@ -160,11 +160,11 @@ input[type=radio]:checked~label:before,
 .tm-contact-formfield input:active,
 .tm-contact-formfield textarea:focus,
 .tm-contact-formfield textarea:active {
-    border-color: #985EFF;
+    border-color: #f46530;
 }
 
 .tm-checkout-coupon>a {
-    border-left-color: #985EFF;
+    border-left-color: #f46530;
 }
 
 
